@@ -8,7 +8,7 @@ export default class Report extends React.Component {
 
     constructor(props) {
         super(props);
-        this.state = {
+        this.stateasdf = {
             username: '',
             showCreateModal: false,
             showDeleteModal: false,
